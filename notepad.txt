@@ -1,1 +1,1 @@
-Here is the new notepad file
+Here is the new notepad with the modified text for testing conflit lessons
